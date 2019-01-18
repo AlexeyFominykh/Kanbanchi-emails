@@ -1,0 +1,9 @@
+# ignore all hidden files
+.*
+
+# do track .gitignore
+!.gitignore
+!.gitattributes
+
+# ignore raw
+raw/
